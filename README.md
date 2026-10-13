@@ -2,7 +2,6 @@
 ## Introduction
 Hi, I'm Sankalp Singh. This is my Student Learning Portal assignment. I created it to practise Markdown and learn how README files work on GitHub.
 ## About the Project
-This is a simple educational project where students can find useful learning resources and basic programming examples.
 I believe **regular practice is important**, *learning takes time*, and ~~nobody makes mistakes~~ we learn from our mistakes.
 
 **Purpose:** To make learning resources easy to find and understand.
