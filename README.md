@@ -50,7 +50,7 @@ Visit the [official Python website](https://www.python.org/) to learn more about
 ```
 ## Learning Quote
 
-> "The beautiful thing about learning is that nobody can take it away from you." — B.B. King
+> “Education is the most powerful weapon which you can use to change the world.” — Nelson Mandela
 
 ---
 ## Author: Sankalp Singh
