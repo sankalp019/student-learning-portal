@@ -1,16 +1,15 @@
 # Student Learning Portal
 ## Introduction
-Hi, I'm Sankalp Singh. This is my Student Learning Portal assignment. I created it to practise Markdown and learn how README files work on GitHub.
+Hi, I'm Sankalp Singh. This is my Student Learning Portal assignment. 
 ## About the Project
-I believe **regular practice is important**, *learning takes time*, and ~~nobody makes mistakes~~ we learn from our mistakes.
+I believe **regular practice is important** and ~~nobody makes mistakes~~ we learn from our mistakes.
 
-**Purpose:** To make learning resources easy to find and understand.
+**Purpose:** To make resources easy to find and understand.
 
 ## Features
 
 - Basic learning resources
 - Simple programming examples
-- Useful educational links
 - Beginner-friendly content
 
 ## Technologies Used
@@ -23,8 +22,6 @@ I believe **regular practice is important**, *learning takes time*, and ~~nobody
 ## Python Learning
 
 Visit the [official Python website](https://www.python.org/) to learn more about Python.
-
-## Educational Image
 
 ![Students studying](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Students_in_a_classroom.jpg/800pxStudents_in_a_classroom.jpg)
 ---
@@ -47,7 +44,7 @@ Visit the [official Python website](https://www.python.org/) to learn more about
 </body>
 </html>
 ```
-## Learning Quote
+## Quote
 
 > “Education is the most powerful weapon which you can use to change the world.” — Nelson Mandela
 
@@ -56,9 +53,5 @@ Visit the [official Python website](https://www.python.org/) to learn more about
 ## Purpose: To make learning resources easy to find and understand.
 
 ## Conclusion
-
-Through this assignment, I learned how to use Markdown headings, lists, links, images, tables, and code blocks. These basics will be useful in my future college projects.
-
-Thanks for reading!
-
-**GitHub Repository:** [View my project]((https://github.com/sankalp019/student-learning-portal.git))
+Through this assignment, I learned how to use Markdown headings, lists, links, images and tables 
+**GitHub Repository:** [View my project](https://github.com/sankalp019/student-learning-portal.git)
